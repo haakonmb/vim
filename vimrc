@@ -68,4 +68,6 @@ nmap <F9> :SCCompile<cr>
 nmap <F10> :SCCompileRun<cr>:SCViewResult
 map <C-J> <C-W>j<C-W>_
 map <C-K> <C-W>k<C-W>_
+map <C-H> <C-W>h<C-W>_
+map <C-L> <C-W>l<C-W>_
 
